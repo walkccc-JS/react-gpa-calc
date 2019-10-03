@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gpa-calc/static/css/main.90699b92.chunk.css",
+    "main.js": "/react-gpa-calc/static/js/main.23c6f089.chunk.js",
+    "main.js.map": "/react-gpa-calc/static/js/main.23c6f089.chunk.js.map",
+    "runtime-main.js": "/react-gpa-calc/static/js/runtime-main.ce9e585e.js",
+    "runtime-main.js.map": "/react-gpa-calc/static/js/runtime-main.ce9e585e.js.map",
+    "static/css/2.9f4a86d1.chunk.css": "/react-gpa-calc/static/css/2.9f4a86d1.chunk.css",
+    "static/js/2.035282e3.chunk.js": "/react-gpa-calc/static/js/2.035282e3.chunk.js",
+    "static/js/2.035282e3.chunk.js.map": "/react-gpa-calc/static/js/2.035282e3.chunk.js.map",
+    "index.html": "/react-gpa-calc/index.html",
+    "precache-manifest.debd1d231fc6152c6694c5c2cbd5b861.js": "/react-gpa-calc/precache-manifest.debd1d231fc6152c6694c5c2cbd5b861.js",
+    "service-worker.js": "/react-gpa-calc/service-worker.js",
+    "static/css/2.9f4a86d1.chunk.css.map": "/react-gpa-calc/static/css/2.9f4a86d1.chunk.css.map",
+    "static/css/main.90699b92.chunk.css.map": "/react-gpa-calc/static/css/main.90699b92.chunk.css.map",
+    "static/media/aplus.png": "/react-gpa-calc/static/media/aplus.2cee66ff.png",
+    "static/media/github.png": "/react-gpa-calc/static/media/github.9c461025.png",
+    "static/media/google.png": "/react-gpa-calc/static/media/google.8b201685.png"
+  }
+}
