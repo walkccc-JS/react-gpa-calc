@@ -51,19 +51,29 @@
 
 .Course form {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
+  width: 100%;
 }
 
 .Course form input {
   background: #f7f1f1;
   border: none;
   border-radius: 1rem;
-  display: block;
-  font-size: initial;
-  margin: 0.1rem;
-  padding: 0 0.8rem;
-  width: 10rem;
+}
+
+.Course form input.courseName {
+  padding-left: 1rem;
+  width: 50%;
+}
+
+.Course form input.credits {
+  text-align: center;
+  width: 15%;
+}
+
+.Course form input.grade {
+  text-align: center;
+  width: 15%;
 }
 
 .Course form button {
@@ -73,13 +83,11 @@
   color: white;
   cursor: pointer;
   font-weight: bold;
-  margin-left: 5px;
-  padding: 0 1rem;
-  /* transition: background 0.2s ease-out; */
+  width: 15%;
 }
 
 .Course form button:hover {
-  background: #7ba23f;
+  background: #aad36b;
 }
 
 .Course form input,

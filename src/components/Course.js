@@ -49,6 +49,7 @@ class Course extends Component {
               placeholder="Course Name"
               value={this.state.courseName}
               onChange={this.handleChange}
+              className="courseName"
             />
 
             <input
@@ -59,6 +60,7 @@ class Course extends Component {
               required
               value={this.state.credits}
               onChange={this.handleChange}
+              className="credits"
             />
 
             <input
@@ -69,6 +71,7 @@ class Course extends Component {
               required
               value={this.state.grade}
               onChange={this.handleChange}
+              className="grade"
             />
 
             <button>Save</button>
